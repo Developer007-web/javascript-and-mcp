@@ -3,3 +3,4 @@
 | Day | Date | What I learned |
 |-----|------|----------------|
 | 1 | May 14, 2026 | Started JavaScript — Primitives, Non-primitives, Operators, Conditionals, Expressions, For loop, While loop.
+| 2 | May 15, 2026 | For loop, For in, For of, While, Do While, Functions, Strings, Template Literals |
