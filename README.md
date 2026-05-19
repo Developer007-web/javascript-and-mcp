@@ -6,3 +6,4 @@
 | 2 | May 15, 2026 | For loop, For in, For of, While, Do While, Functions, Strings, Template Literals |
 | 3 | May 16, 2026 | Arrays, Array methods, Map, Filter, Reduce. Built Employee Leave Management System using Claude Desktop + MCP 🔥 |
 | 4 | May 17, 2026 | Console methods, Alert/Prompt/Confirm, DOM, Walking the DOM, BOM, Window Object |
+| 5 | May 18, 2026 | Fetch API, Promises, Async/Await. JS Foundation Complete ✅ Connected AccuWeather MCP connector. Started Expense Tracker local MCP server 🔥 |
