@@ -9,6 +9,6 @@
 | 5 | May 18, 2026 | Fetch API, Promises, Async/Await. JS Foundation Complete ✅ Connected AccuWeather MCP connector. Started Expense Tracker local MCP server 🔥 |
 | 6 | May 19, 2026 | Connected Tavily Search MCP. Built AI Research Assistant. Generated MCP jobs salary report for India automatically. Saved to Excel + Google Drive 🔥 |
 | 7 | May 20, 2026 | Deploy a Github-Analyzer MCP Server Live with working link (It anaylze your profile and extract feature from the profile , you should also try Roast Mode |
-| 8 | May 20, 2026 | Start building a Project - AI-Job Recuitor Through linkedin |
-| 9 | May 20, 2026 | Start building a Project - AI-Job Recuitor Through linkedin- add features like Resume Anaylzer, Ats Score, Recuitor finder and many more working on.... |
-| 10 | AI Recruiter Assistant MCP project (resume + GitHub analysis, recruiter ranking, custom messages) |
+| 8 | May 21, 2026 | Start building a Project - AI-Job Recuitor Through linkedin |
+| 9 | May 22, 2026 | Start building a Project - AI-Job Recuitor Through linkedin- add features like Resume Anaylzer, Ats Score, Recuitor finder and many more working on.... |
+| 10 | May 25, 2026 | AI Recruiter Assistant MCP project (resume + GitHub analysis, recruiter ranking, custom messages) |
