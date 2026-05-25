@@ -11,3 +11,4 @@
 | 7 | May 20, 2026 | Deploy a Github-Analyzer MCP Server Live with working link (It anaylze your profile and extract feature from the profile , you should also try Roast Mode |
 | 8 | May 20, 2026 | Start building a Project - AI-Job Recuitor Through linkedin |
 | 9 | May 20, 2026 | Start building a Project - AI-Job Recuitor Through linkedin- add features like Resume Anaylzer, Ats Score, Recuitor finder and many more working on.... |
+| 10 | AI Recruiter Assistant MCP project (resume + GitHub analysis, recruiter ranking, custom messages) |
