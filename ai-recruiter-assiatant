@@ -1,0 +1,156 @@
+# 🤖 AI Recruiter Assistant — MCP Powered
+**Built by:** Aman Pratap Singh  
+**Day:** 10  
+**Date:** May 25, 2026  
+**Status:** 🔄 In Progress (LinkedIn messaging — coming in 1-2 days)
+
+---
+
+## 🎯 What it does
+
+An AI-powered recruiter assistant that analyzes your resume and GitHub profile, finds the most relevant recruiters, ranks them by fit, and sends personalized messages — all automatically via MCP.
+
+---
+
+## ⚡ How it works
+
+```
+Resume + GitHub Username
+        ↓
+Claude analyzes both
+        ↓
+Finds relevant recruiters (LinkedIn)
+        ↓
+Ranks recruiters by relevance
+        ↓
+Writes custom message for each
+        ↓
+Sends message on LinkedIn (coming soon)
+```
+
+---
+
+## 🔥 Features
+
+| Feature | Status |
+|---------|--------|
+| Resume analysis | ✅ Working |
+| GitHub profile analysis | ✅ Working |
+| Find relevant recruiters | ✅ Working |
+| Rank recruiters by fit | ✅ Working |
+| Write custom messages | ✅ Working |
+| Send messages on LinkedIn | 🔄 Coming in 1-2 days |
+
+---
+
+## 🧠 What Claude analyzes from your resume
+
+- Skills and tech stack
+- Years of experience
+- Projects built
+- Education background
+- Job titles targeted
+- Gaps to address
+
+---
+
+## 🐙 What Claude analyzes from GitHub
+
+- Programming languages used
+- Repository quality and activity
+- Commit consistency
+- Project types (AI, web, backend etc.)
+- Daily commit streak
+- Overall developer activity score
+
+---
+
+## 🎯 How recruiter ranking works
+
+Claude scores each recruiter based on:
+
+| Factor | Weight |
+|--------|--------|
+| Matching tech stack | High |
+| Company size fit | Medium |
+| Role relevance | High |
+| Location match | Medium |
+| Recent hiring activity | High |
+
+Top ranked recruiters get the most personalized messages.
+
+---
+
+## ✍️ Custom message formula
+
+Each message is personalized using:
+- Recruiter's name and company
+- Specific role they hire for
+- Your matching skills from resume
+- Your strongest GitHub projects
+- A clear ask (coffee chat / referral / application)
+
+No copy-paste templates. Every message is unique. 🎯
+
+---
+
+## 🛠️ MCP Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| Filesystem MCP | Read resume PDF |
+| GitHub MCP | Analyze GitHub profile |
+| Tavily Search MCP | Research recruiters + companies |
+| LinkedIn MCP | Find + message recruiters (coming soon) |
+| Google Drive MCP | Log outreach tracker |
+
+---
+
+## 📁 Project Structure
+
+```
+ai-recruiter-assistant/
+├── server.js                  ← MCP server
+├── tools/
+│   ├── analyzeResume.js       ← parse and analyze resume
+│   ├── analyzeGithub.js       ← analyze GitHub profile
+│   ├── findRecruiters.js      ← search and find recruiters
+│   ├── rankRecruiters.js      ← score and rank by fit
+│   ├── writeMessage.js        ← generate custom messages
+│   └── sendLinkedIn.js        ← send LinkedIn message (WIP)
+├── data/
+│   └── outreach-log.json      ← track who was messaged
+├── screenshots/
+│   └── (coming soon)
+└── README.md
+```
+
+---
+
+## 💡 Why I built this
+
+Most people send the same copy-paste cold message to every recruiter.
+No personalization. No research. No wonder it gets ignored.
+
+This tool makes every message feel hand-written.
+Because Claude actually reads your resume + GitHub + researches the recruiter first.
+
+The result? Messages that actually get replies. 🎯
+
+---
+
+## 📅 Development Log
+
+| Date | What was built |
+|------|---------------|
+| May 25, 2026 | Resume analysis ✅ GitHub analysis ✅ Find recruiters ✅ Rank recruiters ✅ Custom messages ✅ |
+| May 26-27, 2026 | LinkedIn messaging integration 🔄 |
+
+---
+
+> *"While others are manually copy-pasting cold messages,*
+> *I built an AI that does it better — automatically."*
+
+---
+
+*Part of my AI development journey — github.com/Developer007-web*
