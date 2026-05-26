@@ -13,3 +13,4 @@
 | 9 | May 22, 2026 | Start building a Project - AI-Job Recuitor Through linkedin- add features like Resume Anaylzer, Ats Score, Recuitor finder and many more working on.... |
 | 10 | May 23, 2026 | AI Recruiter Assistant MCP project (resume + GitHub analysis, recruiter ranking, custom messages) |
 | 11 | May 24, 2026 | Building Some MCP is COmpleted and learning them will be continue, From now I'll study Lang Graph |
+| 12 | May 25, 2026 | Start exploring Lang Technology , working , Generative AI VS Agentic AI |
