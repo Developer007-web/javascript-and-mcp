@@ -14,4 +14,4 @@
 | 10 | May 23, 2026 | AI Recruiter Assistant MCP project (resume + GitHub analysis, recruiter ranking, custom messages) |
 | 11 | May 24, 2026 | Building Some MCP is COmpleted and learning them will be continue, From now I'll study Lang Graph |
 | 12 | May 25, 2026 | Start exploring Lang Technology , working , Generative AI VS Agentic AI |
-| 13 | May 26, 2026 | How RAG and Lang Technology is connected |
+| 13 | May 26, 2026 | How RAG and Lang Technology is connected and datrt building a new MCP server and start learning about docker |
