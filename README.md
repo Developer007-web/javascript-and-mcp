@@ -15,3 +15,4 @@
 | 11 | May 24, 2026 | Building Some MCP is COmpleted and learning them will be continue, From now I'll study Lang Graph |
 | 12 | May 25, 2026 | Start exploring Lang Technology , working , Generative AI VS Agentic AI |
 | 13 | May 26, 2026 | How RAG and Lang Technology is connected and datrt building a new MCP server and start learning about docker |
+| 14 | May 27, 2026 | Built a YouTube video chat bolt , From which you can ask question and it will give you answer |
