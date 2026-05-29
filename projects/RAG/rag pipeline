@@ -1,0 +1,83 @@
+from dotenv import load_dotenv
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain_community.document_loaders import TextLoader
+from langchain_groq import ChatGroq
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnablePassthrough
+
+load_dotenv()
+
+# ── 1. LOAD ──────────────────────────────────────────────────────────────
+def load_document(file_path: str):
+    loader = TextLoader(file_path, encoding="utf-8")
+    documents = loader.load()
+    print(f"✅ Loaded {len(documents)} document(s)")
+    return documents
+
+# ── 2. CHUNK ─────────────────────────────────────────────────────────────
+def chunk_documents(documents, chunk_size=500, chunk_overlap=50):
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_overlap
+    )
+    chunks = splitter.split_documents(documents)
+    print(f"✅ Split into {len(chunks)} chunks")
+    return chunks
+
+# ── 3. EMBED + STORE ─────────────────────────────────────────────────────
+def create_vector_store(chunks):
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2"
+    )
+    vectorstore = FAISS.from_documents(chunks, embeddings)
+    print("✅ Vector store created with FAISS")
+    return vectorstore
+
+# ── 4. RETRIEVE + GENERATE ───────────────────────────────────────────────
+def ask_question(vectorstore, question: str):
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
+
+    prompt = ChatPromptTemplate.from_template("""
+Answer the question based only on the context below.
+
+Context: {context}
+
+Question: {question}
+""")
+
+    llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
+
+    chain = (
+        {"context": retriever, "question": RunnablePassthrough()}
+        | prompt
+        | llm
+        | StrOutputParser()
+    )
+
+    answer = chain.invoke(question)
+    print(f"\n🧠 Question: {question}")
+    print(f"💬 Answer: {answer}")
+
+# ── MAIN ─────────────────────────────────────────────────────────────────
+if __name__ == "__main__":
+    sample_text = """
+    LangGraph is a library for building stateful, multi-actor applications with LLMs.
+    It extends LangChain with the ability to coordinate multiple chains in a graph structure.
+    RAG (Retrieval-Augmented Generation) combines retrieval systems with LLMs.
+    Instead of relying solely on training data, RAG fetches relevant documents at runtime.
+    This makes responses more accurate and up-to-date.
+    MCP (Model Context Protocol) allows AI models to interact with external tools securely.
+    """
+
+    with open("sample_doc.txt", "w") as f:
+        f.write(sample_text)
+
+    docs = load_document("sample_doc.txt")
+    chunks = chunk_documents(docs)
+    vectorstore = create_vector_store(chunks)
+
+    ask_question(vectorstore, "What is RAG and how does it work?")
+    ask_question(vectorstore, "How is MCP different from LangGraph?")
