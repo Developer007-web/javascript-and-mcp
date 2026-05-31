@@ -17,4 +17,6 @@
 | 13 | May 26, 2026 | How RAG and Lang Technology is connected and datrt building a new MCP server and start learning about docker |
 | 14 | May 27, 2026 | Built a YouTube video chat bolt , From which you can ask question and it will give you answer |
 | 15 | May 28, 2026 | RAG pipeline from scratch with chunking and vector search|
+| 16 | May 29, 2026 | Start Building A New Project- MailMind |
+| 17 | May 30, 2026 | New New is completed and Deployed |
 
