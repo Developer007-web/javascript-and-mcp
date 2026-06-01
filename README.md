@@ -20,6 +20,6 @@
 | 16 | May 29, 2026 | Start Building A New Project- MailMind |
 | 17 | May 30, 2026 | New New is completed and Deployed |
 | 18 | May 31, 2026 | Start Learning new things- like Typesense,PostgreSQL, GitHub OAuth, --- RCB JEETTTTT GYIIIIIIIIIIIIII🔥🔥🔥🔥|
-| 19 | June 1, 2026 | Start building the front-end of MCP Registry  |
+| 19 | June 1, 2026 | Start building the front-end of MCP Registry, Redesign the GitHub Profile  |
 
 
