@@ -22,6 +22,8 @@
 | 18 | May 31, 2026 | Start Learning new things- like Typesense,PostgreSQL, GitHub OAuth, --- RCB JEETTTTT GYIIIIIIIIIIIIII🔥🔥🔥🔥|
 | 19 | June 1, 2026 | Start building the front-end of MCP Registry, Redesign the GitHub Profile  |
 | 20 | June 2, 2026 | Start building the Back-end of MCP Registry, includes- Rest API end points, Databse schema  |
+| 21 | June 3, 2026 | Not Everyday is Productive , didn't do much today  |
+
 
 
 
