@@ -24,6 +24,8 @@
 | 20 | June 2, 2026 | Start building the Back-end of MCP Registry, includes- Rest API end points, Databse schema  |
 | 21 | June 3, 2026 | Not Everyday is Productive , didn't do much today  |
 | 22 | June 4, 2026 | Project is Almost Completed.  |
+| 23 | June 5, 2026 | Project is Completed and Posted on Linkedin  |
+| 24 | June 6, 2026 | Added Some new featuresand will be live soon!!!  |
 
 
 
