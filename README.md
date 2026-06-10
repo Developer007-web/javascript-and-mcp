@@ -30,7 +30,7 @@
 | 26 | June 8, 2026 | MCP UI/UX Ultra pro design   |
 | 27 | June 9, 2026 | still exploring ideas   |
 | 28 | June 10, 2026 | Brainstorming and update in mcphub UI   |
-| 29 | June 11, 2026 | Start applying for the jobs from today   |
+| 29 | June 11, 2026 | Start applying for the jobs from today and from today , I'll Start contributing in open world Project  |
 
 
 
