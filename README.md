@@ -31,6 +31,8 @@
 | 27 | June 9, 2026 | still exploring ideas   |
 | 28 | June 10, 2026 | Brainstorming and update in mcphub UI   |
 | 29 | June 11, 2026 | Start applying for the jobs from today and from today , I'll Start contributing in open world Project  |
+| 30 | June 12, 2026 | Start studing the dockers. |
+
 
 
 
