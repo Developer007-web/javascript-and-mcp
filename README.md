@@ -33,6 +33,8 @@
 | 29 | June 11, 2026 | Start applying for the jobs from today and from today , I'll Start contributing in open world Project  |
 | 30 | June 12, 2026 | Start studing the dockers. |
 | 31 | June 13, 2026 | More about Docker , difference between docker & Kubuters. |
+| 32 | June 14, 2026 | Start open - world contribution, and applying for jobs |
+
 
 
 
