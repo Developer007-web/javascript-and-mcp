@@ -34,6 +34,8 @@
 | 30 | June 12, 2026 | Start studing the dockers. |
 | 31 | June 13, 2026 | More about Docker , difference between docker & Kubuters. |
 | 32 | June 14, 2026 | Start open - world contribution, and applying for jobs |
+| 33 | June 15, 2026 | 1st Interview Call |
+
 
 
 
