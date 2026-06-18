@@ -36,6 +36,9 @@
 | 32 | June 14, 2026 | Start open - world contribution, and applying for jobs |
 | 33 | June 15, 2026 | 1st Interview Call |
 | 34 | June 16, 2026 | Applying for Jobs and buildingg a new mcp server |
+| 35 | June 17, 2026 | Enhanced Digital Tool |
+| 36 | June 18, 2026 | Applying for Jobs  |
+
 
 
 
