@@ -38,6 +38,8 @@
 | 34 | June 16, 2026 | Applying for Jobs and buildingg a new mcp server |
 | 35 | June 17, 2026 | Enhanced Digital Tool |
 | 36 | June 18, 2026 | Applying for Jobs  |
+| 37 | June 19, 2026 | SQL   |
+
 
 
 
