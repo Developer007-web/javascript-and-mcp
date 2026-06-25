@@ -44,8 +44,7 @@
 | 40 | June 22, 2026 | Still Searching for job |
 | 41 | June 23, 2026 | Still Searching for job |
 | 42 | June 24, 2026 | Still Searching for job |
-| 43 | June 25, 2026 | Still Searching for job |
-
+| 43 | June 25, 2026 | on a break , from 20th june to 25th June|
 
 
 
