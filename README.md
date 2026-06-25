@@ -40,6 +40,12 @@
 | 36 | June 18, 2026 | Applying for Jobs  |
 | 37 | June 19, 2026 | SQL   |
 | 38 | June 20, 2026 | Still Searching for job |
+| 39 | June 21, 2026 | Still Searching for job |
+| 40 | June 22, 2026 | Still Searching for job |
+| 41 | June 23, 2026 | Still Searching for job |
+| 42 | June 24, 2026 | Still Searching for job |
+| 43 | June 25, 2026 | Still Searching for job |
+
 
 
 
