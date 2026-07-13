@@ -46,7 +46,9 @@
 | 42 | June 24, 2026 | Still Searching for job |
 | 43 | June 25, 2026 | on a break , from 20th june to 25th June|
 | 44 | July 12, 2026 | on a break , Starting from today |
-| 45 | June 12, 2026 | Got a Interview call today and applying for more jobs from today|
+| 45 | July 12, 2026 | Got a Interview call today and applying for more jobs from today|
+| 46 | July 13, 2026 | Got a Interview call today from vision |
+
 
 
 
