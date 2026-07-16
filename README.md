@@ -51,6 +51,8 @@
 | 47 | July 14, 2026 | Updated the Projects and Preparing for tomorrow interview |
 | 48 | July 15, 2026 | Rejected by Flytbase |
 | 49 | July 16, 2026 | Got a call from Sarvam.ai |
+| 49 | July 17, 2026 | Interview at fluid.ai |
+
 
 
 
