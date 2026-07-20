@@ -53,7 +53,9 @@
 | 49 | July 16, 2026 | Got a call from Sarvam.ai |
 | 50 | July 17, 2026 | Interview at fluid.ai |
 | 51 | July 18, 2026 | Call from STEM |
-| 52 | July 19 , 2026 | nothing new
+| 52 | July 19 , 2026 | Follow up mails |
+| 53 | July 20, 2026 | Tomorrow interview at STEM |
+
 
 
 
