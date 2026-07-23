@@ -57,6 +57,8 @@
 | 53 | July 20, 2026 | Tomorrow interview at STEM |
 | 54 | July 21, 2026 | Selected at STEM as (Innovation Engineer) |
 | 55 | July 22, 2026 | updated the supa base |
+| 56 | July 23, 2026 | Applting for better jobs |
+
 
 
 
