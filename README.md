@@ -59,7 +59,9 @@
 | 55 | July 22, 2026 | updated the supa base |
 | 56 | July 23, 2026 | Applyng for better jobs |
 | 57 | July 24, 2026 | nothing's new |
-| 58 | July 24, 2026 | Applyinf for better jobs |
+| 58 | July 24, 2026 | Applying for better jobs |
+| 59 | July 25, 2026 | Start building a new project idea, will add detail soon! |
+
 
 
 
