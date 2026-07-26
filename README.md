@@ -61,6 +61,8 @@
 | 57 | July 24, 2026 | nothing's new |
 | 58 | July 24, 2026 | Applying for better jobs |
 | 59 | July 25, 2026 | Start building a new project idea, will add detail soon! |
+| 60 | July 26, 2026 | Got 1st Freelancing project |
+
 
 
 
