@@ -63,6 +63,9 @@
 | 59 | July 25, 2026 | Start building a new project idea, will add detail soon! |
 | 60 | July 26, 2026 | Got 1st Freelancing project |
 | 61 | July 27, 2026 | Starting AWS and applied for google Intership program as an Data Analystics |
+| 62 | July 28, 2026 | Updating the portfolio profile |
+
+
 
 
 
