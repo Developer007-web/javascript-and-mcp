@@ -65,6 +65,8 @@
 | 61 | July 27, 2026 | Starting AWS and applied for google Intership program as an Data Analystics |
 | 62 | July 28, 2026 | Updating the portfolio profile and resume updated|
 | 63 | July 29, 2026 | Tierd and confused  |
+| 64 | July 23, 2026 | Interview Schudlued  |
+
 
 
 
