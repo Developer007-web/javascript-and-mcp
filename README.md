@@ -67,6 +67,8 @@
 | 63 | July 29, 2026 | Tierd and confused  |
 | 64 | July 30, 2026 | Interview Schudlued  |
 | 65 | July 31, 2026 | Learning how to train a LLM   |
+| 66 | August 5, 2026 | Exploring Data Analyst   |
+
 
 
 
