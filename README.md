@@ -69,6 +69,8 @@
 | 65 | July 31, 2026 | Learning how to train a LLM   |
 | 66 | August 5, 2026 | Exploring Data Analyst   |
 | 67 | August 6, 2026 | How about a website for booking end to end trip   |
+| 68 | August 9, 2026 | Interview at Livingai.in |
+
 
 
 
