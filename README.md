@@ -70,6 +70,8 @@
 | 66 | August 5, 2026 | Exploring Data Analyst   |
 | 67 | August 6, 2026 | How about a website for booking end to end trip   |
 | 68 | August 9, 2026 | Interview at Livingai.in |
+| 69 | August 10, 2026 | Updating the backend of aurelia |
+
 
 
 
